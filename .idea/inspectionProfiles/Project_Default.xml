@@ -1,0 +1,73 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="accelerate" />
+          <option value="asgiref" />
+          <option value="cachetools" />
+          <option value="certifi" />
+          <option value="charset-normalizer" />
+          <option value="colorama" />
+          <option value="Django" />
+          <option value="django-cors-headers" />
+          <option value="djangorestframework" />
+          <option value="filelock" />
+          <option value="fsspec" />
+          <option value="google-api-core" />
+          <option value="google-auth" />
+          <option value="google-cloud-speech" />
+          <option value="googleapis-common-protos" />
+          <option value="grpcio" />
+          <option value="grpcio-status" />
+          <option value="hf-xet" />
+          <option value="huggingface-hub" />
+          <option value="idna" />
+          <option value="intel-openmp" />
+          <option value="Jinja2" />
+          <option value="llvmlite" />
+          <option value="MarkupSafe" />
+          <option value="mkl" />
+          <option value="more-itertools" />
+          <option value="mpmath" />
+          <option value="networkx" />
+          <option value="numba" />
+          <option value="numpy" />
+          <option value="openai-whisper" />
+          <option value="packaging" />
+          <option value="proto-plus" />
+          <option value="protobuf" />
+          <option value="psutil" />
+          <option value="pyasn1" />
+          <option value="pyasn1_modules" />
+          <option value="python-dotenv" />
+          <option value="PyYAML" />
+          <option value="regex" />
+          <option value="requests" />
+          <option value="rsa" />
+          <option value="safetensors" />
+          <option value="sqlparse" />
+          <option value="sympy" />
+          <option value="tbb" />
+          <option value="tiktoken" />
+          <option value="tokenizers" />
+          <option value="torch" />
+          <option value="tqdm" />
+          <option value="transformers" />
+          <option value="typing_extensions" />
+          <option value="tzdata" />
+          <option value="urllib3" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
